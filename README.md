@@ -18,4 +18,6 @@ npm install && npm start
 
 This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
 
+---
+
 <p align="center">Done with ❤️ and ☕ for <strong>Rafael Scholant 👋</strong> </p>
