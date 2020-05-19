@@ -3,7 +3,7 @@
 ## 💪 Project
 This is a minimal Electron application to test yours web applications hosted on 3000 port. 
 
-## To use
+## 💻 To use
 
 ```bash
 # Clone this repository
