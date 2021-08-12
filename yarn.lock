@@ -30,10 +30,10 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@types/node@^12.0.12":
-  version "12.20.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.19.tgz#538e61fc220f77ae4a4663c3d8c3cb391365c209"
-  integrity sha512-niAuZrwrjKck4+XhoCw6AAVQBENHftpXw9F4ryk66fTgYaKQ53R4FI7c9vUGGw5vQis1HKBHDR1gcYI/Bq1xvw==
+"@types/node@^14.6.2":
+  version "14.17.9"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.17.9.tgz#b97c057e6138adb7b720df2bd0264b03c9f504fd"
+  integrity sha512-CMjgRNsks27IDwI785YMY0KLt3co/c0cQ5foxHYv/shC2w8oOnVwz5Ubq1QG5KzrcW+AXk6gzdnxIkDnTvzu3g==
 
 boolean@^3.0.1:
   version "3.1.2"
@@ -141,13 +141,13 @@ duplexer3@^0.1.4:
   resolved "https://registry.yarnpkg.com/duplexer3/-/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
   integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
 
-electron@^8.3.0:
-  version "8.5.5"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-8.5.5.tgz#17b12bd70139c0099f750fc5de0d480bf03acb96"
-  integrity sha512-e355H+tRDial0m+X2v+l+0SnaATAPw4sNjv9qmdk/6MJz/glteVJwVJEnxTjPfEELIJSChrBWDBVpjdDvoBF4Q==
+electron@^13.1.9:
+  version "13.1.9"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-13.1.9.tgz#668e2632b81e9fa21edfd32876282d3e2ff7fd76"
+  integrity sha512-By4Zb72XNQLrPb70BXdIW3NtEHFwybP5DIQjohnCxOYONq5vojuHjNcTuWnBgMvwQ2qwykk6Tw5EwF2Pt0CWjA==
   dependencies:
     "@electron/get" "^1.0.1"
-    "@types/node" "^12.0.12"
+    "@types/node" "^14.6.2"
     extract-zip "^1.0.3"
 
 encodeurl@^1.0.2:
